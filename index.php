@@ -26,9 +26,8 @@
 
         <div id="mainSectionContainer">
         
-        
             <div id="mainContentContainer">
-            hello everyobe
+                hello everyobe
             </div>
 
         </div>
